@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marksescon
-- 👀 I’m interested in ... PCB design, audio effects, music, and health care informatics.
-- 🌱 I’m currently learning ... KiCAD (PCB) and multivariable calculus.
-- 💞️ I’m looking to collaborate on ... PCB design for guitar/audio effects.
+- 👀 I’m interested in ... PCB design, audio effects, music, and healthcare automation.
+- 🌱 I’m currently learning ... Python, JavaScript, KiCAD (PCB), and mechnical and electrical engineering.
+- 💞️ I’m looking to collaborate on ... PCB design for guitar/audio effects and automation in the healthcare setting.
 - 📫 How to reach me ... @sesconco or @marksescon on InstaGram.
 
 <!---
